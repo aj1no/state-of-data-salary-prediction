@@ -61,7 +61,7 @@ class ABNTDocTemplate(BaseDocTemplate):
 
 def draw_page_number(canvas, doc):
     # ABNT conta os elementos pre-textuais, mas exibe a numeracao apenas apos eles.
-    if doc.page <= 3:
+    if doc.page <= 5:
         return
 
     canvas.saveState()
@@ -276,7 +276,7 @@ def figure(filename, title, styles):
         [
             paragraph(title, styles["caption_title"]),
             scaled_image(image_path, max_width=15.5 * cm, max_height=12.0 * cm),
-            source("Elaborado pelos autores com base no State of Data Brazil 2024-2025.", styles),
+            source("Elaborado pelos autores (2026).", styles),
         ]
     )
 
@@ -317,8 +317,8 @@ def title_page(styles):
     ]
 
 
-def abstract_page(styles):
-    return [
+def abstract_pages(styles):
+    story = [
         paragraph("<b>RESUMO</b>", styles["center"]),
         Spacer(1, 0.8 * cm),
         paragraph(
@@ -345,6 +345,37 @@ def abstract_page(styles):
         PageBreak(),
     ]
 
+    story.extend(
+        [
+            paragraph("<b>ABSTRACT</b>", styles["center"]),
+            Spacer(1, 0.8 * cm),
+            paragraph(
+                "This paper presents the development of a supervised Machine Learning pipeline to "
+                "classify the salary range of Brazilian data professionals. The dataset used was "
+                "the State of Data Brazil 2024-2025 survey, originally composed of 5,217 respondents "
+                "and more than 400 variables. The study selected demographic, academic, professional, "
+                "and technological attributes, as well as engineered variables related to experience, "
+                "remote work, and the number of technologies used. The target variable was simplified "
+                "into three classes: low, medium, and high salary range. The final model adopted was "
+                "a Logistic Regression optimized through stratified cross-validation, achieving 73.47% "
+                "mean accuracy in cross-validation and 72.46% accuracy on the test set. The results "
+                "indicate stronger performance in the extreme salary classes and greater difficulty "
+                "in classifying the medium salary range, which is consistent with the overlap of "
+                "professional profiles in the Brazilian data job market.",
+                styles["body"],
+            ),
+            Spacer(1, 0.5 * cm),
+            paragraph(
+                "<b>Keywords:</b> Machine Learning; Data Science; Classification; Salary Range; "
+                "State of Data.",
+                styles["body_no_indent"],
+            ),
+            PageBreak(),
+        ]
+    )
+
+    return story
+
 
 def toc_page(styles):
     toc = TableOfContents()
@@ -356,7 +387,7 @@ def build_story(styles):
     story = []
     story.extend(cover(styles))
     story.extend(title_page(styles))
-    story.extend(abstract_page(styles))
+    story.extend(abstract_pages(styles))
     story.extend(toc_page(styles))
 
     story.append(heading("1 INTRODUÇÃO", styles["heading1"], 0, "sec-introducao"))
@@ -549,13 +580,13 @@ def build_story(styles):
     )
 
     figures = [
-        ("distribuicao_alvo.png", "Figura 1 - Distribuição da variável-alvo simplificada"),
-        ("senioridade_vs_salario.png", "Figura 2 - Faixa salarial por nível de senioridade"),
-        ("experiencia_vs_salario.png", "Figura 3 - Distribuição salarial por categoria de experiência"),
-        ("distribuicao_tecnologias.png", "Figura 4 - Distribuição da stack técnica por faixa salarial"),
-        ("boxplot_tecnologias_por_faixa.png", "Figura 5 - Boxplot da quantidade de tecnologias por faixa salarial"),
-        ("heatmap_correlacao.png", "Figura 6 - Heatmap exploratório de correlação"),
-        ("matriz_confusao.png", "Figura 7 - Matriz de confusão do modelo preditivo"),
+        ("distribuicao_alvo.png", "Figura 1 – Distribuição da variável-alvo em faixas salariais"),
+        ("senioridade_vs_salario.png", "Figura 2 – Faixa salarial por nível de senioridade"),
+        ("experiencia_vs_salario.png", "Figura 3 – Distribuição salarial por categoria de experiência"),
+        ("distribuicao_tecnologias.png", "Figura 4 – Distribuição da stack técnica por faixa salarial"),
+        ("boxplot_tecnologias_por_faixa.png", "Figura 5 – Boxplot da quantidade de tecnologias por faixa salarial"),
+        ("heatmap_correlacao.png", "Figura 6 – Heatmap exploratório de correlação entre variáveis selecionadas"),
+        ("matriz_confusao.png", "Figura 7 – Matriz de confusão do modelo preditivo"),
     ]
     for filename, title in figures:
         story.append(Spacer(1, 0.4 * cm))

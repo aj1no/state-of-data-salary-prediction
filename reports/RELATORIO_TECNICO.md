@@ -40,6 +40,14 @@ Este trabalho apresenta o desenvolvimento de um pipeline de Aprendizado de Máqu
 
 ---
 
+# ABSTRACT
+
+This paper presents the development of a supervised Machine Learning pipeline to classify the salary range of Brazilian data professionals. The dataset used was the State of Data Brazil 2024-2025 survey, originally composed of 5,217 respondents and more than 400 variables. The study selected demographic, academic, professional, and technological attributes, as well as engineered variables related to experience, remote work, and the number of technologies used. The target variable was simplified into three classes: low, medium, and high salary range. The final model adopted was a Logistic Regression optimized through stratified cross-validation, achieving 73.47% mean accuracy in cross-validation and 72.46% accuracy on the test set. The results indicate stronger performance in the extreme salary classes and greater difficulty in classifying the medium salary range, which is consistent with the overlap of professional profiles in the Brazilian data job market.
+
+**Keywords:** Machine Learning; Data Science; Classification; Salary Range; State of Data.
+
+---
+
 # SUMÁRIO
 
 1. Introdução<br>
@@ -142,47 +150,47 @@ Os resultados indicam desempenho mais consistente nas classes extremas. A classe
 
 A maior ambiguidade na faixa média é compatível com o mercado brasileiro de dados, no qual profissionais plenos, seniores, especialistas e gestores podem ter perfis próximos, mas remunerações diferentes conforme região, porte da empresa, regime de contratação e cargo exercido.
 
-**Figura 1 - Distribuição da variável-alvo simplificada**
+**Figura 1 – Distribuição da variável-alvo em faixas salariais**
 
 ![Distribuição da variável-alvo](figures/distribuicao_alvo.png)
 
-Fonte: Elaborado pelos autores com base no State of Data Brazil 2024-2025.
+Fonte: Elaborado pelos autores (2026).
 
-**Figura 2 - Faixa salarial por nível de senioridade**
+**Figura 2 – Faixa salarial por nível de senioridade**
 
 ![Senioridade versus salário](figures/senioridade_vs_salario.png)
 
-Fonte: Elaborado pelos autores com base no State of Data Brazil 2024-2025.
+Fonte: Elaborado pelos autores (2026).
 
-**Figura 3 - Distribuição salarial por categoria de experiência**
+**Figura 3 – Distribuição salarial por categoria de experiência**
 
 ![Experiência versus salário](figures/experiencia_vs_salario.png)
 
-Fonte: Elaborado pelos autores com base no State of Data Brazil 2024-2025.
+Fonte: Elaborado pelos autores (2026).
 
-**Figura 4 - Distribuição da stack técnica por faixa salarial**
+**Figura 4 – Distribuição da stack técnica por faixa salarial**
 
 ![Distribuição da stack técnica por faixa salarial](figures/distribuicao_tecnologias.png)
 
-Fonte: Elaborado pelos autores com base no State of Data Brazil 2024-2025.
+Fonte: Elaborado pelos autores (2026).
 
-**Figura 5 - Boxplot da quantidade de tecnologias por faixa salarial**
+**Figura 5 – Boxplot da quantidade de tecnologias por faixa salarial**
 
 ![Boxplot de tecnologias por faixa salarial](figures/boxplot_tecnologias_por_faixa.png)
 
-Fonte: Elaborado pelos autores com base no State of Data Brazil 2024-2025.
+Fonte: Elaborado pelos autores (2026).
 
-**Figura 6 - Heatmap exploratório de correlação**
+**Figura 6 – Heatmap exploratório de correlação entre variáveis selecionadas**
 
 ![Heatmap exploratório de correlação](figures/heatmap_correlacao.png)
 
-Fonte: Elaborado pelos autores com base no State of Data Brazil 2024-2025.
+Fonte: Elaborado pelos autores (2026).
 
-**Figura 7 - Matriz de confusão do modelo preditivo**
+**Figura 7 – Matriz de confusão do modelo preditivo**
 
 ![Matriz de confusão](figures/matriz_confusao.png)
 
-Fonte: Elaborado pelos autores com base no State of Data Brazil 2024-2025.
+Fonte: Elaborado pelos autores (2026).
 
 # 5 LIMITAÇÕES
 
