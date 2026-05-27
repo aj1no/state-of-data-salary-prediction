@@ -1,0 +1,974 @@
+genero,escolaridade,regiao,situacao_trabalho,setor,tamanho_empresa,gestor,cargo,nivel,Experiencia_Categoria,Trabalha_Remoto,Perfil_Tecnico_Qtd,faixa_salarial_class
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Educação,de 501 a 1.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Nordeste,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 51 a 100,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Área de Consultoria,de 51 a 100,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Finanças ou Bancos,de 1.001 a 3.000,False,Analista de Negócios/Business Analyst,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Setor Farmaceutico,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,Até 2 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Área de Consultoria,de 51 a 100,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,4.0,Média faixa salarial
+Feminino,Mestrado,Sul,Servidor Público,Setor Público,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,de 11 a 50,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Marketing,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,9.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Outra Opção,de 51 a 100,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Não tenho graduação formal,Sul,Empregado (CLT),Varejo,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Marketing,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Área da Saúde,de 501 a 1.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,10.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Não tenho graduação formal,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Até 2 anos,Sim,8.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Área de Consultoria,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,12.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,Mais de 6 anos,Não,6.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Norte,Servidor Público,Setor Público,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,9.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Servidor Público,Setor Público,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Outras Engenharias (não inclui dev),Pleno,3 a 6 anos,Não,15.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,35.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Indústria,de 501 a 1.000,False,Outra Opção,Júnior,Mais de 6 anos,Não,2.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Freelancer,Educação,de 11 a 50,False,Outra Opção,Sênior,Até 2 anos,Sim,0.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Outra Opção,de 101 a 500,False,Cientista de Dados/Data Scientist,Júnior,3 a 6 anos,Não,6.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,Mais de 6 anos,Sim,0.0,Média faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Estagiário,Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Internet/Ecommerce,de 101 a 500,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Não,4.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Freelancer,Área da Saúde,de 1.001 a 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Automotivo,de 501 a 1.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Servidor Público,Setor Público,Acima de 3.000,False,Analista de Suporte/Analista Técnico,Sênior,Até 2 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,3.0,Alta faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empreendedor ou Empregado (CNPJ),Área da Saúde,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,9.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Sênior,3 a 6 anos,Sim,13.0,Alta faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,6.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Telecomunicação,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Júnior,3 a 6 anos,Sim,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,13.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Estagiário,Setor Alimentício,de 11 a 50,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,3 a 6 anos,Sim,8.0,Média faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 6 a 10,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Indústria,de 101 a 500,False,Outra Opção,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Feminino,Estudante de Graduação,Sul,Estagiário,Tecnologia/Fábrica de Software,de 501 a 1.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,7.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,Até 2 anos,Sim,0.0,Alta faixa salarial
+Masculino,Mestrado,Centro-oeste,Servidor Público,Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,5.0,Média faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Finanças ou Bancos,de 11 a 50,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Não informado,Empregado (CLT),Tecnologia/Fábrica de Software,de 11 a 50,False,Analista de BI/BI Analyst,Júnior,3 a 6 anos,Sim,4.0,Baixa faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Analytics Engineer,Júnior,Até 2 anos,Sim,2.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Educação,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Não,8.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Educação,de 1 a 5,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Indústria,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Sim,3.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Pleno,Até 2 anos,Não,7.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Seguros ou Previdência,de 51 a 100,False,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Sênior,3 a 6 anos,Não,8.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Empregado (CLT),Outra Opção,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,6.0,Média faixa salarial
+Masculino,Mestrado,Sul,Servidor Público,Setor Público,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Outra Opção,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Educação,de 501 a 1.000,False,Analista de BI/BI Analyst,Pleno,Mais de 6 anos,Não,2.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,9.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Freelancer,Setor Imobiliário/ Construção Civil,de 1 a 5,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,15.0,Baixa faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Não,7.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 11 a 50,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Não,7.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Seguros ou Previdência,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,9.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Internet/Ecommerce,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Setor Alimentício,de 51 a 100,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Outras Engenharias (não inclui dev),Sênior,Mais de 6 anos,Não,13.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Finanças ou Bancos,de 51 a 100,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Outra Opção,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Setor Automotivo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,10.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,4.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Indústria,de 501 a 1.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,Mais de 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Prefiro não informar,Educação,de 11 a 50,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,Mais de 6 anos,Sim,0.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,Mais de 6 anos,Não,7.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Não informado,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 6 a 10,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Servidor Público,Setor Público,de 1.001 a 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Média faixa salarial
+Outro,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 11 a 50,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Não,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Agronegócios,de 501 a 1.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,11.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empreendedor ou Empregado (CNPJ),Setor Automotivo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Setor de Energia,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,7.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 11 a 50,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empreendedor ou Empregado (CNPJ),Entretenimento ou Esportes,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Setor Imobiliário/ Construção Civil,de 501 a 1.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,3.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Centro-oeste,Empreendedor ou Empregado (CNPJ),Outra Opção,de 11 a 50,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Analista de Negócios/Business Analyst,Sênior,Mais de 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Analista de Dados/Data Analyst,Sênior,Até 2 anos,Não,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Pós-graduação,Não informado,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Internet/Ecommerce,de 51 a 100,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 6 a 10,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,Mais de 6 anos,Sim,9.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Centro-oeste,Estagiário,Telecomunicação,de 101 a 500,False,Analista de Dados/Data Analyst,Júnior,3 a 6 anos,Não,7.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Setor de Energia,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,3.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Sim,6.0,Média faixa salarial
+Feminino,Estudante de Graduação,Centro-oeste,Estagiário,Área de Consultoria,de 101 a 500,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Sim,3.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Educação,de 11 a 50,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,9.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Educação,de 1.001 a 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Outra Opção,Pleno,3 a 6 anos,Sim,0.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Não,6.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Marketing,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Entretenimento ou Esportes,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Mais de 6 anos,Sim,8.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Estagiário,Setor Público,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,8.0,Alta faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Não,10.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 11 a 50,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Tecnologia/Fábrica de Software,de 51 a 100,False,Analista de Suporte/Analista Técnico,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Freelancer,Área da Saúde,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,Mais de 6 anos,Não,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Setor Imobiliário/ Construção Civil,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,11.0,Média faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,7.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Estagiário,Setor Farmaceutico,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Filantropia/ONG's,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,Até 2 anos,Não,2.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,19.0,Alta faixa salarial
+Masculino,Não tenho graduação formal,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Internet/Ecommerce,de 101 a 500,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,4.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Setor de Energia,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,7.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Mestrado,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 11 a 50,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,de 501 a 1.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Doutorado ou Phd,Sul,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,5.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,Mais de 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Pós-graduação,Não informado,Freelancer,Área da Saúde,de 1 a 5,True,Outro/Gestão,Não informado,Até 2 anos,Sim,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,16.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 11 a 50,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 1 a 5,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,8.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,0.0,Média faixa salarial
+Feminino,Estudante de Graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Área de Consultoria,de 51 a 100,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,9.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 11 a 50,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,10.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Indústria,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,8.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,3 a 6 anos,Sim,9.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Varejo,de 101 a 500,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Setor de Energia,de 101 a 500,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,5.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 51 a 100,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Setor Público,de 501 a 1.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 1 a 5,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Educação,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Não,9.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,21.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Setor de Energia,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,3 a 6 anos,Não,4.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Entretenimento ou Esportes,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,de 51 a 100,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Setor Farmaceutico,de 11 a 50,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,2.0,Baixa faixa salarial
+Masculino,Doutorado ou Phd,Nordeste,Servidor Público,Educação,de 1.001 a 3.000,False,Professor/Pesquisador,Júnior,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Finanças ou Bancos,de 101 a 500,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Área da Saúde,de 501 a 1.000,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Sênior,Até 2 anos,Sim,10.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Outra Opção,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Sênior,Até 2 anos,Sim,5.0,Alta faixa salarial
+Masculino,Não tenho graduação formal,Sudeste,Estagiário,Outra Opção,de 501 a 1.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Júnior,Até 2 anos,Não,9.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,Mais de 6 anos,Não,9.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Sim,3.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,de 51 a 100,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Outra Opção,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Não tenho graduação formal,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,de 1.001 a 3.000,False,Analytics Engineer,Pleno,Até 2 anos,Não,8.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Setor Automotivo,de 1.001 a 3.000,False,Analista de Negócios/Business Analyst,Júnior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Outra Opção,de 1.001 a 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Não,3.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Estagiário,Setor Alimentício,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Até 2 anos,Sim,11.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empreendedor ou Empregado (CNPJ),Finanças ou Bancos,de 6 a 10,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,7.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,de 501 a 1.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Pleno,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,11.0,Alta faixa salarial
+Feminino,Doutorado ou Phd,Sudeste,Servidor Público,Setor Público,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,2.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Arquiteto de Dados/Data Architect,Sênior,Mais de 6 anos,Sim,18.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,de 101 a 500,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,12.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Setor de Energia,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,7.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Júnior,3 a 6 anos,Não,5.0,Média faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Outra Opção,de 101 a 500,False,Outras Engenharias (não inclui dev),Sênior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 11 a 50,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Outra Opção,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 51 a 100,True,Outro/Gestão,Não informado,Até 2 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Estagiário,Área de Consultoria,de 51 a 100,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Seguros ou Previdência,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,9.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Outra Opção,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,10.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,11.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Sim,3.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Não,5.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,17.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,5.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Sênior,Mais de 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Pleno,3 a 6 anos,Não,11.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,4.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Até 2 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Sênior,Mais de 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Nordeste,Empreendedor ou Empregado (CNPJ),Setor Público,de 51 a 100,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,21.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 6 a 10,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,0.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,de 101 a 500,False,Analytics Engineer,Pleno,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Estagiário,Indústria,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Estagiário,Setor Público,de 101 a 500,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,2.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 11 a 50,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,9.0,Baixa faixa salarial
+Feminino,Doutorado ou Phd,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,6.0,Média faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,8.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Suporte/Analista Técnico,Júnior,Até 2 anos,Sim,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Educação,de 1.001 a 3.000,False,Analista de Negócios/Business Analyst,Pleno,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Sim,6.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Sim,0.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Marketing,de 101 a 500,False,Analista de Suporte/Analista Técnico,Sênior,Até 2 anos,Não,2.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Não,7.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Marketing,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Agronegócios,de 501 a 1.000,False,Outra Opção,Sênior,Até 2 anos,Sim,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Varejo,de 501 a 1.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,6.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 51 a 100,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Não,9.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 11 a 50,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,9.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Outro,Graduação/Bacharelado,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,13.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,5.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,3 a 6 anos,Não,3.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,7.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Mais de 6 anos,Não,7.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 51 a 100,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Centro-oeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,10.0,Baixa faixa salarial
+Masculino,Mestrado,Não informado,Empreendedor ou Empregado (CNPJ),Outra Opção,de 51 a 100,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Outra Opção,de 11 a 50,False,Analista de Negócios/Business Analyst,Júnior,3 a 6 anos,Não,3.0,Média faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Indústria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Não,4.0,Baixa faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empregado (CLT),Indústria,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Outra Opção,Sênior,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,3.0,Alta faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Setor Automotivo,Acima de 3.000,False,Analytics Engineer,Sênior,Mais de 6 anos,Sim,7.0,Alta faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Área de Consultoria,de 51 a 100,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Agronegócios,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,6.0,Média faixa salarial
+Prefiro não informar,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Não,10.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,de 101 a 500,False,Outra Opção,Júnior,Até 2 anos,Não,2.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Outra Opção,de 501 a 1.000,False,Outra Opção,Pleno,Mais de 6 anos,Não,1.0,Baixa faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,3 a 6 anos,Não,3.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Centro-oeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 51 a 100,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Analytics Engineer,Pleno,3 a 6 anos,Sim,3.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Indústria,de 501 a 1.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 11 a 50,False,Analista de Suporte/Analista Técnico,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Telecomunicação,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,4.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sul,Empreendedor ou Empregado (CNPJ),Indústria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,5.0,Alta faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Educação,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Sim,7.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Internet/Ecommerce,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,8.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,Mais de 6 anos,Sim,3.0,Média faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Estagiário,Outra Opção,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,1.0,Baixa faixa salarial
+Feminino,Estudante de Graduação,Centro-oeste,Empreendedor ou Empregado (CNPJ),Telecomunicação,de 11 a 50,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,8.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Finanças ou Bancos,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Não,7.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Não informado,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Não,5.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,3 a 6 anos,Sim,13.0,Média faixa salarial
+Feminino,Doutorado ou Phd,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor de Energia,de 101 a 500,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Sim,2.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,11.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Outra Opção,Pleno,3 a 6 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Área de Consultoria,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Área da Saúde,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,10.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor de Energia,de 501 a 1.000,False,Analista de Dados/Data Analyst,Júnior,3 a 6 anos,Não,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Outra Opção,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Sênior,Mais de 6 anos,Não,9.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Norte,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,3 a 6 anos,Não,11.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Sênior,Mais de 6 anos,Sim,15.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Área da Saúde,de 101 a 500,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,9.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Educação,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,8.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Marketing,de 1 a 5,False,Analista de Negócios/Business Analyst,Pleno,3 a 6 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Marketing,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,9.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empreendedor ou Empregado (CNPJ),Finanças ou Bancos,de 11 a 50,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,7.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Setor Imobiliário/ Construção Civil,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 11 a 50,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,14.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 51 a 100,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,de 11 a 50,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de Negócios/Business Analyst,Júnior,3 a 6 anos,Sim,3.0,Baixa faixa salarial
+Feminino,Doutorado ou Phd,Sudeste,Empregado (CLT),Educação,de 1.001 a 3.000,False,Outra Opção,Sênior,Mais de 6 anos,Não,5.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,3 a 6 anos,Não,10.0,Baixa faixa salarial
+Feminino,Estudante de Graduação,Sul,Estagiário,Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Indústria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Suporte/Analista Técnico,Sênior,Mais de 6 anos,Não,11.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Finanças ou Bancos,de 11 a 50,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,Até 2 anos,Não,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Outra Opção,de 1 a 5,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Marketing,de 1 a 5,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,15.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Outra Opção,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Não,11.0,Baixa faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 51 a 100,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Feminino,Mestrado,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 11 a 50,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,9.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Empregado (CLT),Indústria,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,Mais de 6 anos,Não,7.0,Média faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Agronegócios,de 11 a 50,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Outra Opção,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Setor de Energia,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Indústria,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Indústria,de 501 a 1.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Entretenimento ou Esportes,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,6.0,Alta faixa salarial
+Feminino,Doutorado ou Phd,Centro-oeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,6.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Educação,de 501 a 1.000,False,Professor/Pesquisador,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,6.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,9.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 1 a 5,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Indústria,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Área de Consultoria,de 101 a 500,False,Analista de Negócios/Business Analyst,Sênior,Até 2 anos,Não,5.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Centro-oeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Educação,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,10.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Finanças ou Bancos,de 11 a 50,False,Analista de Negócios/Business Analyst,Júnior,Até 2 anos,Não,8.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Servidor Público,Setor Público,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Não,7.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Prefiro não informar,Pós-graduação,Nordeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Sim,5.0,Média faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,11.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Marketing,de 1 a 5,False,Outras Engenharias (não inclui dev),Pleno,Até 2 anos,Não,3.0,Baixa faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,5.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Suporte/Analista Técnico,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,13.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Área da Saúde,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 1 a 5,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,2.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Negócios/Business Analyst,Pleno,3 a 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,9.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Sim,8.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Educação,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,8.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Indústria,de 51 a 100,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Nordeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Prefiro não informar,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,12.0,Média faixa salarial
+Feminino,Não tenho graduação formal,Sudeste,Empregado (CLT),Marketing,de 6 a 10,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,2.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empreendedor ou Empregado (CNPJ),Setor de Energia,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,4.0,Média faixa salarial
+Masculino,Pós-graduação,Norte,Servidor Público,Setor Público,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Mestrado,Centro-oeste,Servidor Público,Setor Público,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Centro-oeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Outra Opção,de 501 a 1.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Não,4.0,Média faixa salarial
+Masculino,Pós-graduação,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Varejo,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Não informado,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Outra Opção,Pleno,3 a 6 anos,Não,1.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Educação,de 501 a 1.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Educação,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Sim,0.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,8.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 51 a 100,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,13.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Entretenimento ou Esportes,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,7.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,Mais de 6 anos,Não,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 1 a 5,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Marketing,de 51 a 100,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Sim,7.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,15.0,Média faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,3 a 6 anos,Sim,8.0,Média faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Educação,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Sim,4.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Indústria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Indústria,de 501 a 1.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,3.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Não,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Sênior,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Telecomunicação,Acima de 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Não,15.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,True,Outro/Gestão,Não informado,Até 2 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Outra Opção,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,4.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Norte,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 11 a 50,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Júnior,3 a 6 anos,Sim,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,7.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Estagiário,Setor Público,de 11 a 50,False,Estatístico,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,15.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empreendedor ou Empregado (CNPJ),Finanças ou Bancos,de 6 a 10,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Analytics Engineer,Pleno,3 a 6 anos,Sim,9.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Feminino,Não tenho graduação formal,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Pleno,3 a 6 anos,Sim,10.0,Média faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Varejo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Área da Saúde,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,4.0,Alta faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Mestrado,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Outra Opção,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,5.0,Média faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empregado (CLT),Setor Alimentício,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,7.0,Baixa faixa salarial
+Feminino,Pós-graduação,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Setor de Energia,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,7.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Mestrado,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Área de Consultoria,de 51 a 100,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,9.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sul,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Sim,3.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,Até 2 anos,Não,11.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Varejo,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Sim,11.0,Baixa faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analytics Engineer,Pleno,Até 2 anos,Sim,6.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analytics Engineer,Júnior,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Educação,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,13.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Servidor Público,Setor Público,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,8.0,Média faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Centro-oeste,Empregado (CLT),Setor Público,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Educação,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Nordeste,Empreendedor ou Empregado (CNPJ),Área da Saúde,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,Até 2 anos,Não,5.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de Suporte/Analista Técnico,Pleno,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Setor Imobiliário/ Construção Civil,de 6 a 10,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,11.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Estagiário,Outra Opção,de 1 a 5,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Júnior,Até 2 anos,Sim,0.0,Baixa faixa salarial
+Masculino,Mestrado,Nordeste,Servidor Público,Setor Público,de 501 a 1.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Não tenho graduação formal,Sul,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Estudante de Graduação,Centro-oeste,Estagiário,Área da Saúde,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,de 1.001 a 3.000,False,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Sênior,Até 2 anos,Não,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,11.0,Alta faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Mais de 6 anos,Sim,13.0,Média faixa salarial
+Feminino,Doutorado ou Phd,Nordeste,Estagiário,Setor Alimentício,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,3.0,Baixa faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,5.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Educação,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,9.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,False,Analytics Engineer,Júnior,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Marketing,de 11 a 50,False,Outra Opção,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Servidor Público,Setor Público,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Norte,Empregado (CLT),Finanças ou Bancos,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Telecomunicação,de 6 a 10,False,Analista de BI/BI Analyst,Júnior,3 a 6 anos,Não,5.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,4.0,Alta faixa salarial
+Feminino,Doutorado ou Phd,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,4.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empreendedor ou Empregado (CNPJ),Outra Opção,de 51 a 100,False,Cientista de Dados/Data Scientist,Júnior,3 a 6 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Seguros ou Previdência,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor de Energia,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Indústria,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,8.0,Baixa faixa salarial
+Feminino,Estudante de Graduação,Centro-oeste,Estagiário,Outra Opção,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Finanças ou Bancos,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,3.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1 a 5,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,15.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de Negócios/Business Analyst,Sênior,Até 2 anos,Sim,3.0,Média faixa salarial
+Feminino,Pós-graduação,Centro-oeste,Empregado (CLT),Finanças ou Bancos,de 11 a 50,False,Analista de BI/BI Analyst,Sênior,Mais de 6 anos,Não,9.0,Média faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Setor Alimentício,de 1 a 5,False,Cientista de Dados/Data Scientist,Júnior,3 a 6 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Setor de Energia,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,4.0,Baixa faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Educação,de 501 a 1.000,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,10.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Cientista de Dados/Data Scientist,Júnior,3 a 6 anos,Sim,3.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Automotivo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Não,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 11 a 50,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Educação,de 101 a 500,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Pleno,3 a 6 anos,Não,14.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Educação,de 51 a 100,True,Outro/Gestão,Não informado,Até 2 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,10.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,de 101 a 500,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,8.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Telecomunicação,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Marketing,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,11.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Desempregado e não estou buscando recolocação,Setor Automotivo,de 501 a 1.000,False,Analista de Suporte/Analista Técnico,Pleno,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,12.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Educação,de 51 a 100,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,5.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,8.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,de 101 a 500,False,Analytics Engineer,Pleno,Mais de 6 anos,Não,8.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Setor Imobiliário/ Construção Civil,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 51 a 100,False,Analista de Dados/Data Analyst,Pleno,Mais de 6 anos,Não,5.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,de 501 a 1.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,3 a 6 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Empregado (CLT),Varejo,de 501 a 1.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Estagiário,Telecomunicação,de 501 a 1.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,14.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,7.0,Média faixa salarial
+Prefiro não informar,Graduação/Bacharelado,Nordeste,Empregado (CLT),Varejo,de 1.001 a 3.000,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Centro-oeste,Empregado (CLT),Marketing,de 1 a 5,True,Outro/Gestão,Não informado,Até 2 anos,Sim,0.0,Baixa faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Setor Público,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,11.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Educação,de 101 a 500,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Não,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Automotivo,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Tecnologia/Fábrica de Software,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empreendedor ou Empregado (CNPJ),Agronegócios,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,de 51 a 100,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Sênior,Até 2 anos,Sim,8.0,Alta faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,3.0,Média faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,6.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Finanças ou Bancos,de 51 a 100,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,2.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Seguros ou Previdência,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,10.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Outra Opção,Pleno,Até 2 anos,Não,2.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,de 101 a 500,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Telecomunicação,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,10.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Outra Opção,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Agronegócios,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,7.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,False,Analista de Negócios/Business Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Feminino,Não tenho graduação formal,Sudeste,Empregado (CLT),Setor Alimentício,de 101 a 500,False,Outra Opção,Pleno,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Finanças ou Bancos,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,9.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Sim,5.0,Média faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analytics Engineer,Sênior,Mais de 6 anos,Sim,11.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Marketing,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Pós-graduação,Não informado,Desempregado e não estou buscando recolocação,Marketing,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Setor de Energia,de 501 a 1.000,False,Arquiteto de Dados/Data Architect,Sênior,3 a 6 anos,Não,23.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Estagiário,Tecnologia/Fábrica de Software,de 101 a 500,False,Outra Opção,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,10.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 1 a 5,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Entretenimento ou Esportes,Acima de 3.000,False,Analista de Negócios/Business Analyst,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Varejo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,6.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Servidor Público,Tecnologia/Fábrica de Software,de 101 a 500,False,Professor/Pesquisador,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Marketing,de 1 a 5,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,8.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Telecomunicação,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Sim,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,11.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,12.0,Média faixa salarial
+Feminino,Mestrado,Nordeste,Empregado (CLT),Varejo,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,Mais de 6 anos,Sim,3.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,3.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,4.0,Alta faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,9.0,Baixa faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Educação,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Outra Opção,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,4.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Outra Opção,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 51 a 100,False,Outra Opção,Pleno,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,de 1.001 a 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Mais de 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Mestrado,Centro-oeste,Empregado (CLT),Setor Público,Acima de 3.000,False,Estatístico,Sênior,Mais de 6 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Imobiliário/ Construção Civil,de 1.001 a 3.000,False,Analytics Engineer,Pleno,3 a 6 anos,Não,9.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Finanças ou Bancos,de 11 a 50,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,7.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Seguros ou Previdência,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Sim,10.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Indústria,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,de 11 a 50,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,8.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,3 a 6 anos,Não,7.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Área da Saúde,de 101 a 500,False,Analytics Engineer,Sênior,Mais de 6 anos,Não,9.0,Alta faixa salarial
+Masculino,Não tenho graduação formal,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Sim,10.0,Baixa faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Mais de 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Seguros ou Previdência,de 51 a 100,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,9.0,Alta faixa salarial
+Masculino,Mestrado,Sul,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Área de Consultoria,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Feminino,Mestrado,Não informado,Empregado (CLT),Setor Alimentício,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,11.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Marketing,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,9.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,3.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Setor de Energia,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Norte,Empregado (CLT),Indústria,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Não tenho graduação formal,Sudeste,Servidor Público,Setor Público,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Freelancer,Educação,de 101 a 500,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 501 a 1.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Sim,0.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Não,8.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,9.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,12.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Outra Opção,de 51 a 100,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,5.0,Alta faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Outra Opção,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Indústria,de 1.001 a 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Internet/Ecommerce,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Outra Opção,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,de 6 a 10,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empreendedor ou Empregado (CNPJ),Setor Alimentício,de 51 a 100,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,4.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analytics Engineer,Pleno,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Educação,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,8.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Setor de Energia,de 1.001 a 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,2.0,Alta faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,5.0,Baixa faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Setor Farmaceutico,de 101 a 500,False,Analista de Negócios/Business Analyst,Pleno,3 a 6 anos,Não,3.0,Baixa faixa salarial
+Feminino,Estudante de Graduação,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analytics Engineer,Pleno,Até 2 anos,Sim,6.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Setor Público,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Não tenho graduação formal,Sul,Empregado (CLT),Agronegócios,de 11 a 50,False,Analista de Suporte/Analista Técnico,Sênior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,6.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,7.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Outra Opção,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,12.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Não,7.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Não informado,Freelancer,Educação,de 11 a 50,False,Outra Opção,Pleno,Até 2 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 6 a 10,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,9.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Telecomunicação,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 1 a 5,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Área de Consultoria,de 1.001 a 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Servidor Público,Setor Público,Acima de 3.000,False,Estatístico,Júnior,3 a 6 anos,Não,3.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Não informado,Vivo fora do Brasil e trabalho para empresa de fora do Brasil,Finanças ou Bancos,de 501 a 1.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,Mais de 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Estagiário,Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Setor Automotivo,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 51 a 100,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Negócios/Business Analyst,Pleno,Até 2 anos,Sim,5.0,Baixa faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Não,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,Mais de 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Pleno,3 a 6 anos,Sim,12.0,Baixa faixa salarial
+Feminino,Não tenho graduação formal,Sudeste,Empregado (CLT),Setor Imobiliário/ Construção Civil,de 1.001 a 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,de 101 a 500,False,Analista de Dados/Data Analyst,Júnior,3 a 6 anos,Não,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empreendedor ou Empregado (CNPJ),Outra Opção,de 1.001 a 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Setor Automotivo,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,8.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,15.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,12.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Agronegócios,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Mais de 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Sênior,3 a 6 anos,Não,7.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Sênior,Mais de 6 anos,Não,4.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Sênior,Mais de 6 anos,Sim,13.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Estagiário,Tecnologia/Fábrica de Software,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor de Energia,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,4.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,3.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Educação,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Pós-graduação,Norte,Empreendedor ou Empregado (CNPJ),Indústria,de 101 a 500,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Educação,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,5.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Sênior,Até 2 anos,Não,10.0,Alta faixa salarial
+Feminino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Educação,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Marketing,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,8.0,Alta faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,8.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sul,Freelancer,Outra Opção,de 1 a 5,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de Dados/Data Analyst,Pleno,Mais de 6 anos,Não,4.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Estagiário,Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Outra Opção,Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 11 a 50,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,5.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Área de Consultoria,de 501 a 1.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,15.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empreendedor ou Empregado (CNPJ),Setor Imobiliário/ Construção Civil,de 101 a 500,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,7.0,Baixa faixa salarial
+Masculino,Doutorado ou Phd,Nordeste,Empregado (CLT),Outra Opção,de 101 a 500,False,Cientista de Dados/Data Scientist,Pleno,Até 2 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,12.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Varejo,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Setor Público,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analytics Engineer,Sênior,Mais de 6 anos,Não,18.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Não,7.0,Média faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Outra Opção,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 1 a 5,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,9.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Sênior,Até 2 anos,Não,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Sênior,Mais de 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,7.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,3.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,12.0,Média faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Área da Saúde,de 51 a 100,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Não,6.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,de 501 a 1.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Varejo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,Mais de 6 anos,Não,3.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Setor de Energia,de 1.001 a 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,7.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,18.0,Média faixa salarial
+Masculino,Pós-graduação,Nordeste,Servidor Público,Finanças ou Bancos,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,16.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,10.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,10.0,Alta faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Empregado (CLT),Setor Público,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Analista de Negócios/Business Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Não tenho graduação formal,Sudeste,Servidor Público,Setor Público,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 1 a 5,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,de 11 a 50,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Área de Consultoria,de 1 a 5,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,14.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,5.0,Média faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Analista de Suporte/Analista Técnico,Pleno,3 a 6 anos,Não,3.0,Baixa faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Júnior,Até 2 anos,Sim,3.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Sim,26.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empregado (CLT),Outra Opção,de 6 a 10,False,Outra Opção,Júnior,Até 2 anos,Não,1.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Varejo,de 1.001 a 3.000,False,Analytics Engineer,Pleno,Até 2 anos,Não,7.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,8.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analytics Engineer,Sênior,Mais de 6 anos,Sim,12.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Outra Opção,Sênior,Até 2 anos,Sim,3.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 101 a 500,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Sul,Estagiário,Finanças ou Bancos,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,3.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Outra Opção,de 101 a 500,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,6.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Outra Opção,Sênior,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,8.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,7.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Arquiteto de Dados/Data Architect,Sênior,3 a 6 anos,Não,4.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Telecomunicação,de 1.001 a 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Feminino,Mestrado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Sim,8.0,Média faixa salarial
+Feminino,Estudante de Graduação,Sul,Empregado (CLT),Área de Consultoria,de 6 a 10,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Servidor Público,Setor Público,Acima de 3.000,False,Outra Opção,Júnior,Até 2 anos,Não,1.0,Baixa faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Desempregado e não estou buscando recolocação,Setor Público,de 101 a 500,False,Arquiteto de Dados/Data Architect,Sênior,Mais de 6 anos,Não,5.0,Alta faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Indústria,Acima de 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Sênior,Mais de 6 anos,Não,7.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Analytics Engineer,Sênior,Mais de 6 anos,Sim,4.0,Média faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Negócios/Business Analyst,Sênior,3 a 6 anos,Não,3.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1 a 5,False,Estatístico,Pleno,Mais de 6 anos,Não,5.0,Média faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,9.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Sim,6.0,Média faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Setor Alimentício,de 501 a 1.000,False,Analista de Suporte/Analista Técnico,Júnior,Até 2 anos,Sim,0.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Sênior,3 a 6 anos,Sim,12.0,Alta faixa salarial
+Masculino,Não tenho graduação formal,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analytics Engineer,Pleno,3 a 6 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Não,8.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Filantropia/ONG's,de 11 a 50,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,10.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área da Saúde,de 501 a 1.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Não tenho graduação formal,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 11 a 50,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Centro-oeste,Servidor Público,Educação,de 1 a 5,False,Analista de Suporte/Analista Técnico,Pleno,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área da Saúde,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Sênior,Mais de 6 anos,Não,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Marketing,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Não tenho graduação formal,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Machine Learning/ML Engineer/AI Engineer,Pleno,3 a 6 anos,Sim,10.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Área da Saúde,de 501 a 1.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,7.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Educação,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Mestrado,Nordeste,Servidor Público,Setor Público,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Mais de 6 anos,Sim,8.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Agronegócios,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Área de Consultoria,de 51 a 100,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Estudante de Graduação,Nordeste,Empreendedor ou Empregado (CNPJ),Outra Opção,de 101 a 500,False,Outras Engenharias (não inclui dev),Júnior,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,Até 2 anos,Não,6.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Internet/Ecommerce,de 101 a 500,False,Analista de Suporte/Analista Técnico,Pleno,Até 2 anos,Não,5.0,Baixa faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,3.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Até 2 anos,Sim,4.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,8.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Área de Consultoria,de 1.001 a 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,12.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Indústria,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,10.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Marketing,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,7.0,Média faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,False,Outra Opção,Sênior,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Não,7.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Sudeste,Empregado (CLT),Finanças ou Bancos,de 501 a 1.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Outra Opção,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,5.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Entretenimento ou Esportes,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,13.0,Média faixa salarial
+Masculino,Doutorado ou Phd,Nordeste,Estagiário,Tecnologia/Fábrica de Software,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,4.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Internet/Ecommerce,Acima de 3.000,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Cientista de Dados/Data Scientist,Júnior,Até 2 anos,Sim,4.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Automotivo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Sim,7.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,Até 2 anos,Sim,8.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Setor Farmaceutico,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,0.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Internet/Ecommerce,Acima de 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 11 a 50,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Não,7.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 101 a 500,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Sim,9.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Não,8.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Mais de 6 anos,Não,7.0,Alta faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Não,6.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sudeste,Empregado (CLT),Área de Consultoria,de 501 a 1.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,Até 2 anos,Sim,18.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Analytics Engineer,Sênior,3 a 6 anos,Sim,12.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Educação,Acima de 3.000,False,Analista de BI/BI Analyst,Sênior,Mais de 6 anos,Não,5.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 101 a 500,False,Analytics Engineer,Júnior,Até 2 anos,Sim,6.0,Baixa faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Outra Opção,Pleno,Até 2 anos,Não,5.0,Média faixa salarial
+Feminino,Pós-graduação,Sudeste,Empregado (CLT),Indústria,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,4.0,Alta faixa salarial
+Masculino,Mestrado,Sul,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sudeste,Empreendedor ou Empregado (CNPJ),Setor Alimentício,de 1 a 5,True,Outro/Gestão,Não informado,Até 2 anos,Não,0.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,de 1.001 a 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,Mais de 6 anos,Não,8.0,Alta faixa salarial
+Feminino,Pós-graduação,Centro-oeste,Empregado (CLT),Varejo,Acima de 3.000,False,Outra Opção,Sênior,Mais de 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Mais de 6 anos,Não,12.0,Média faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Setor de Energia,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Não,11.0,Baixa faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Indústria,Acima de 3.000,False,Engenheiro de Dados/Data Engineer/Data Architect,Sênior,3 a 6 anos,Sim,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,5.0,Alta faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,Até 2 anos,Sim,4.0,Média faixa salarial
+Feminino,Graduação/Bacharelado,Sudeste,Freelancer,Filantropia/ONG's,de 6 a 10,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Sim,9.0,Alta faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Tecnologia/Fábrica de Software,Acima de 3.000,False,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,Pleno,Até 2 anos,Não,6.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Área de Consultoria,Acima de 3.000,False,Outra Opção,Sênior,Até 2 anos,Não,7.0,Média faixa salarial
+Feminino,Mestrado,Sudeste,Empregado (CLT),Área da Saúde,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,Até 2 anos,Sim,4.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Cientista de Dados/Data Scientist,Sênior,3 a 6 anos,Não,11.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Alimentício,Acima de 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Setor Automotivo,de 1.001 a 3.000,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Média faixa salarial
+Masculino,Graduação/Bacharelado,Centro-oeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,False,Engenheiro de Dados/Data Engineer/Data Architect,Pleno,3 a 6 anos,Sim,6.0,Média faixa salarial
+Feminino,Pós-graduação,Sul,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),Sênior,3 a 6 anos,Sim,5.0,Média faixa salarial
+Feminino,Estudante de Graduação,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de Dados/Data Analyst,Pleno,3 a 6 anos,Não,7.0,Média faixa salarial
+Feminino,Pós-graduação,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 1.001 a 3.000,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Vivo no Brasil e trabalho remoto para empresa de fora do Brasil,Tecnologia/Fábrica de Software,de 51 a 100,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Sim,6.0,Alta faixa salarial
+Masculino,Pós-graduação,Sul,Empregado (CLT),Setor Alimentício,Acima de 3.000,False,Analista de Dados/Data Analyst,Sênior,3 a 6 anos,Não,4.0,Média faixa salarial
+Masculino,Estudante de Graduação,Sul,Empregado (CLT),Indústria,de 11 a 50,True,Outro/Gestão,Não informado,3 a 6 anos,Não,0.0,Baixa faixa salarial
+Masculino,Mestrado,Nordeste,Empregado (CLT),Tecnologia/Fábrica de Software,de 51 a 100,False,Cientista de Dados/Data Scientist,Pleno,3 a 6 anos,Sim,7.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Varejo,Acima de 3.000,False,Analista de Negócios/Business Analyst,Pleno,3 a 6 anos,Não,7.0,Baixa faixa salarial
+Masculino,Pós-graduação,Nordeste,Empregado (CLT),Educação,de 11 a 50,False,Analista de BI/BI Analyst,Júnior,Até 2 anos,Não,5.0,Baixa faixa salarial
+Masculino,Pós-graduação,Sul,Empreendedor ou Empregado (CNPJ),Tecnologia/Fábrica de Software,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Sim,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empregado (CLT),Finanças ou Bancos,Acima de 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Não,9.0,Média faixa salarial
+Masculino,Pós-graduação,Sudeste,Empregado (CLT),Educação,de 11 a 50,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,4.0,Baixa faixa salarial
+Feminino,Mestrado,Sul,Servidor Público,Área da Saúde,de 1.001 a 3.000,False,Analista de Dados/Data Analyst,Júnior,Até 2 anos,Não,8.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sul,Empregado (CLT),Outra Opção,de 1.001 a 3.000,False,Analista de BI/BI Analyst,Pleno,3 a 6 anos,Sim,3.0,Baixa faixa salarial
+Masculino,Mestrado,Sudeste,Empregado (CLT),Finanças ou Bancos,de 101 a 500,True,Outro/Gestão,Não informado,Mais de 6 anos,Não,0.0,Alta faixa salarial
+Masculino,Graduação/Bacharelado,Sudeste,Empreendedor ou Empregado (CNPJ),Área de Consultoria,de 51 a 100,False,Outra Opção,Pleno,Até 2 anos,Sim,0.0,Baixa faixa salarial
