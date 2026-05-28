@@ -19,7 +19,7 @@
 
 ## 1. Descrição do Problema
 
-No cenário corporativo contemporâneo, a área de Tecnologia da Informação — com ênfase em Ciência de Dados, Engenharia de Dados e Business Intelligence — experimentou uma expansão sem precedentes. No entanto, a precificação do trabalho e a definição de cargos e salários no Brasil enfrentam distorções devido a variações geográficas, modalidades de contratação (CLT vs. PJ), porte das organizações e diversidade de stacks tecnológicas exigidas pelas empresas. 
+No cenário corporativo contemporâneo, a área de Tecnologia da Informação com ênfase em Ciência de Dados, Engenharia de Dados e Business Intelligence experimentou uma expansão sem precedentes. No entanto, a precificação do trabalho e a definição de cargos e salários no Brasil enfrentam distorções devido a variações geográficas, modalidades de contratação (CLT vs. PJ), porte das organizações e diversidade de stacks tecnológicas exigidas pelas empresas. 
 
 Este projeto aborda o problema de prever a faixa salarial de profissionais de dados no Brasil sob a ótica do Aprendizado de Máquina Supervisionado (Classificação). Compreender quais fatores estruturais da carreira (como senioridade, tempo de experiência e número de tecnologias dominadas) mais influenciam a faixa salarial permite que profissionais orientem melhor suas carreiras e que departamentos de Recursos Humanos calibrem suas propostas comerciais de contratação.
 
