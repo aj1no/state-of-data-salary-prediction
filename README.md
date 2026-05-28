@@ -19,7 +19,7 @@
 
 ## 1. Problem Description
 
-In the contemporary corporate landscape, Information Technology — with emphasis on Data Science, Data Engineering, and Business Intelligence — has experienced unprecedented expansion. However, labor pricing and the definition of roles and salaries in Brazil face distortions due to geographic variations, contract types (CLT vs. PJ), organizational sizes, and the diversity of tech stacks required by companies. 
+In the contemporary corporate landscape, Information Technology with emphasis on Data Science, Data Engineering, and Business Intelligence has experienced unprecedented expansion. However, labor pricing and the definition of roles and salaries in Brazil face distortions due to geographic variations, contract types (CLT vs. PJ), organizational sizes, and the diversity of tech stacks required by companies. 
 
 This project addresses the problem of predicting the salary range of data professionals in Brazil from the perspective of Supervised Machine Learning (Classification). Understanding which structural career factors (such as seniority, years of experience, and number of mastered technologies) most heavily influence salary ranges allows professionals to better guide their careers and HR departments to calibrate their commercial hiring offers.
 
